@@ -41,8 +41,6 @@ purpose and non-infringement.
 #region Using Statements
 using System;
 using System.Globalization;
-
-using MonoGame.Framework.Graphics;
 #endregion
 
 namespace Microsoft.Xna.Framework.GamerServices
